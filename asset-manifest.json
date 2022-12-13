@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GymWebsite/static/css/main.200255ac.css",
+    "main.js": "/GymWebsite/static/js/main.bdca5902.js",
+    "static/media/cv.pdf": "/GymWebsite/static/media/cv.0966373a210b8b829afc.pdf",
+    "static/media/main.jpg": "/GymWebsite/static/media/main.f231d0508d5142d1f972.jpg",
+    "static/media/web.jpg": "/GymWebsite/static/media/web.11348c63ee7cd24bdc33.jpg",
+    "static/media/logo.jpg": "/GymWebsite/static/media/logo.2124b79a3c5067ebb666.jpg",
+    "index.html": "/GymWebsite/index.html",
+    "main.200255ac.css.map": "/GymWebsite/static/css/main.200255ac.css.map",
+    "main.bdca5902.js.map": "/GymWebsite/static/js/main.bdca5902.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.200255ac.css",
+    "static/js/main.bdca5902.js"
+  ]
+}
